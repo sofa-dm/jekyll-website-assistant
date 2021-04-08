@@ -1,0 +1,7 @@
+{
+  "root_website_directory": "/Users/dm/Dev/sofa-dm.github.io",
+  "template_path": "",
+  "posts_path": "/_posts/",
+  "images_path": "/assets/img",
+  "categories": {"1": "bash", "2": "python", "3": "database"}
+}
